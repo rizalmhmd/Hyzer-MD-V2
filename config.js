@@ -28,15 +28,15 @@ global.APIs = { // API Prefix
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://melcanz.com': 'elaina',
-  'https://api.xteam.xyz': 'd37372311698ed1d',
+  'https://api.xteam.xyz': 'NezukoTachibana281207',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://bsbt-api-rest.herokuapp.com': 'benniismael',
   'https://api.zeks.xyz': 'apivinz',
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'MIMINGANZ',
-  'https://zekais-api.herokuapp.com': 'apikeymu',
-  'https://api.lolhuman.xyz': 'Deffbotz',
+  'https://zekais-api.herokuapp.com': 'zekais',
+  'https://api.lolhuman.xyz': 'azzbot',
 }
 //cari apikey sendiri ya gaes yak
 
